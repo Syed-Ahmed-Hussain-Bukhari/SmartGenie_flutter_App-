@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="facebook_app_id">1062453945534198</string>
+    <string name="fb_login_protocol_scheme">fb1062453945534198</string>
+    <string name="facebook_client_token">fe579bf7fc6c6c04dd434e131ce114d3</string>
+    <string name="app_name">"SmartGenie App"</string>
+
+</resources>
